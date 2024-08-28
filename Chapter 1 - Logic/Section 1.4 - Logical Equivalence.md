@@ -46,7 +46,7 @@ Table 1.4.3:
 ## [[De Morgan's Laws]]:
 
 The first De Morgan Law is: 
-## $¬(p∨q) ≡ ¬(¬p∧¬q)$
+## $¬(p∨q) ≡ (¬p∧¬q)$
 
 When the negation operation is distributed inside the parentheses, the [[disjunction]] operation changes to a [[conjunction]] operation.
 
