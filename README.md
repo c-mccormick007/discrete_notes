@@ -7,7 +7,7 @@ These are concise, fully searchable, wiki-style markdown pages to help you while
 Please feel free to create issues for things that might be wrong or pull requests for updating things that are inaccurate. 
 
 To use you must have Obsidian.md. You can download it here: https://obsidian.md/
-To use this, you can either clone this to your own machine, or hit the greem code button on the repository page and download a zip file.
+You can either clone this to your own machine, or hit the greem code button on the repository page and download a zip file.
 
 ![image](https://github.com/user-attachments/assets/7d0910f3-fe74-4829-bdb7-1dbd2473c436)
 
