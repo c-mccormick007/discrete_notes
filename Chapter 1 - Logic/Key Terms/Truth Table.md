@@ -1,0 +1,1 @@
+This shows the truth value of a [[Compound proposition]] for every possible combination of truth variables contained within it. 

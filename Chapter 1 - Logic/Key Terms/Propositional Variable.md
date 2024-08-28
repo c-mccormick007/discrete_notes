@@ -1,0 +1,1 @@
+A variable such as *p*, *q*, and *r*, that can be used to denote arbitrary [[Proposition|propositions]].

@@ -1,0 +1,1 @@
+The negation operation acts on one [[Proposition]] and has the effect of reversing the truth value. Denoted by ¬.

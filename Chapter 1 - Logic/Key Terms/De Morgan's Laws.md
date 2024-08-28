@@ -1,0 +1,1 @@
+De Morgan's laws are logical equivalences that show how to correctly distribute a negation operation inside a parenthesized expression. 

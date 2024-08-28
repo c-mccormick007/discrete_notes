@@ -1,0 +1,1 @@
+A proposition is the most basic element in [[logic]], defined as a statement that can be clearly identified as true or false. 

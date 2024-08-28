@@ -1,0 +1,1 @@
+A logical operation combines [[Proposition|Propositions]] using a particular composition rule.

@@ -1,0 +1,1 @@
+The inclusive or operation is the same as the [[Disjunction]] operation and evaluates to true when one or both of the [[Proposition|propositions]] is true. 

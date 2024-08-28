@@ -1,0 +1,1 @@
+A [[Compound proposition]] is a contradiction if the proposition is always false regardless of the truth value of individual [[Proposition]]s.

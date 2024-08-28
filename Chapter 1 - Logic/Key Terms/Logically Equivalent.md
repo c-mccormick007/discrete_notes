@@ -1,0 +1,1 @@
+Two [[Compound proposition]]s are said to be logically equivalent if they have the same truth  value regardless of the truth values of their individual propositions.

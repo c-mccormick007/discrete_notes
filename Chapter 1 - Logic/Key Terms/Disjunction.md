@@ -1,0 +1,1 @@
+**Disjunction** is a logical operation that combines two [[Proposition|propositions]] and returns true if at least one of the [[Proposition|propositions]] is true. It is typically denoted by the symbol "∨" and is equivalent to the logical "or" in English. The disjunction is false only if both [[Proposition|propositions]] are false.

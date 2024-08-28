@@ -1,0 +1,1 @@
+Logic is the study of formal reasoning that focuses on making clear and unambiguous statements. It plays a vital role in mathematics for proving theorems and is also used in computer science, law, and medicine to ensure precise and accurate communication.

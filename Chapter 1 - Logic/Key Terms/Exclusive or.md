@@ -1,0 +1,1 @@
+The Exclusive or of [[Proposition|propositions]] *p* and *q* evaluates to true when *p* is true and *q* is false or when *q* is true and *p* is false. Denoted by ⊕.

@@ -1,0 +1,1 @@
+A [[Compound proposition]] is a tautology if the proposition is always true regardless of the truth value of the individual [[Proposition|propositions]] that occur in it. 

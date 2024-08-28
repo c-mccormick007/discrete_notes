@@ -1,0 +1,1 @@
+**Conjunction** is a [[logical operation]] that combines two [[Proposition|propositions]] and returns true only if both propositions are true. It is typically denoted by the symbol "∧" and is equivalent to the logical "and" in English. If either or both propositions are false, the conjunction is false.
