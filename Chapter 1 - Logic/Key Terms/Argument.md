@@ -1,0 +1,1 @@
+An argument is a sequence of [[Proposition|propositions]], called hypotheses, followed from a final [[Proposition]] called the conclusion. 

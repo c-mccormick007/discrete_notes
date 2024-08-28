@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "ecbef5116daa3b5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "210db6371250ba0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09bab12f1286f7ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 1 - Logic/Section 1.6 - Logical Reasoning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1037abcc3a566908",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf3749b71aca19ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e051fa8bbc3de0a3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b82a49b0d239bdcc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a37213df081d4241",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4c5448996149ce09",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca411ceedf147bbf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f431689ffe0e555",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Chapter 1 - Logic/Section 1.6 - Logical Reasoning.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "821466dc7d8035d9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Chapter 1 - Logic/Section 1.6 - Logical Reasoning.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8f3e76140fa65058",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a6b94308f74d8934",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Chapter 1 - Logic/Section 1.6 - Logical Reasoning.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "09bab12f1286f7ec",
+  "lastOpenFiles": [
+    "Chapter 1 - Logic/Section 1.5 - Laws of propositional logic.md",
+    "Chapter 1 - Logic/Section 1.6 - Logical Reasoning.md",
+    "Chapter 1 - Logic/Section 1.4 - Logical Equivalence.md",
+    "Misc Files/images/Pasted image 20240828145409.png",
+    "Misc Files/images/Pasted image 20240828145835.png",
+    "Misc Files/images/Pasted image 20240828145653.png",
+    "Misc Files/images/Pasted image 20240828145209.png",
+    "Misc Files/images/Pasted image 20240828145008.png",
+    "Chapter 1 - Logic/Key Terms/Argument.md",
+    "Chapter 1 - Logic/Section 1.3 - Conditional Statements.md",
+    "Chapter 1 - Logic/Section 1.1 - Propositions and logical operations.md"
+  ]
+}
