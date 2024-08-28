@@ -27,6 +27,7 @@ example:
 $p → q  ≡ ¬p ∨ q$ , therefore
 $(p \lor r) \land (\neg p \lor q) \equiv (p \lor r) \land (p \to q)$ 
 
+
 # Exercises Todo: 
 - [ ] 1.5.1
 - [ ] 1.5.2
