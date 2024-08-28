@@ -47,12 +47,12 @@ The top row starts with all T's. The rightmost column alternates between T and F
 
 # Exercises Todo: 
 
-- [x] 1.2.1
-- [x] 1.2.2
-- [x] 1.2.3
-- [x] 1.2.4
-- [x] 1.2.5
-- [x] 1.2.6
-- [x] 1.2.7
-- [x] 1.2.8
-- [x] 1.2.9
+- [ ] 1.2.1
+- [ ] 1.2.2
+- [ ] 1.2.3
+- [ ] 1.2.4
+- [ ] 1.2.5
+- [ ] 1.2.6
+- [ ] 1.2.7
+- [ ] 1.2.8
+- [ ] 1.2.9
