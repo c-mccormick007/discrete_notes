@@ -3,8 +3,8 @@ Welcome to the Obsidian.md notes for Discrete Computing at UIS!
 ![image](https://github.com/user-attachments/assets/2f64abb6-db80-47b2-a301-22c27ae07696)
 
 
-Please feel free to create issues for things that might be wrong or pull requests for updating things that are inaccurate. 
 These are concise, fully searchable, wiki-style markdown pages to help you while you are studying for the class. 
+Please feel free to create issues for things that might be wrong or pull requests for updating things that are inaccurate. 
 
 To use you must have Obsidian.md. You can download it here: https://obsidian.md/
 To use this, you can either clone this to your own machine, or hit the greem code button on the repository page and download a zip file.
