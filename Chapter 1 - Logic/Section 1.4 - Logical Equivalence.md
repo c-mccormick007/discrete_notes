@@ -59,7 +59,7 @@ Consider an English example with the following propositions for $p$ and $q$
 The use of the English word "or" throughout the example is assumed to be [[disjunction]] (i.e., the inclusive or). [[De Morgan's laws]] says that the following two English statements are [[logically equivalent]]:
 
 The second version swaps the role of [[Disjunction]] and [[Conjunction]]:
-## $¬(p∧q) ≡ ¬(¬p∨¬q)$
+## $¬(p∧q) ≡ (¬p∨¬q)$
 
 
 # Exercises Todo: 
