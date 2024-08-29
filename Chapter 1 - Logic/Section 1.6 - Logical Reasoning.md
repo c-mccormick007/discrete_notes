@@ -15,7 +15,6 @@ An argument is **valid** if the conclusion is true for every truth assignment to
 | $h_2$          |
 | $...$          |
 | $h_n$          |
-| -              |
 | $\therefore c$ |
 $h_1 ... h_n$ are the hypothesis and $c$ is the conclusion. The $\therefore$ symbol reads as 'therefore.' The [[Argument]] is valid when $(h_1 \land h_2 ~ \land ~  ... ~ \land  ~h_n) \to c$ is a [[Tautology]]. 
 

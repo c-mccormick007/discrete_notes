@@ -116,7 +116,7 @@ This one is quite simple. [[Truth Table]] is below:
 
 # Exercises Todo: 
 
-- [ ] 1.1.1
-- [ ] 1.1.2
-- [ ] 1.1.3
-- [ ] 1.1.4
+- [x] 1.1.1
+- [x] 1.1.2
+- [x] 1.1.3
+- [x] 1.1.4
