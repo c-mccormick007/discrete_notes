@@ -86,8 +86,8 @@ $T$
 
 
 # Exercises Todo: 
-- [ ] Exercise 1.3.1
-- [ ] Exercise 1.3.2
+- [x] Exercise 1.3.1
+- [x] Exercise 1.3.2
 - [ ] Exercise 1.3.3
 - [ ] Exercise 1.3.4
 - [ ] Exercise 1.3.5

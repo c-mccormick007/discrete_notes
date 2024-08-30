@@ -1,0 +1,1 @@
+**Justification** refers to the logical reasoning or steps used to show that a mathematical statement, proof, or argument is valid. It's the process of providing a rigorous and logically sound explanation for why a particular result holds true.
