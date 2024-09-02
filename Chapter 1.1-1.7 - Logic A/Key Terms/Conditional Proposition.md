@@ -1,0 +1,1 @@
+A [[Compound proposition]] that uses a [[Conditional Operation]]. 

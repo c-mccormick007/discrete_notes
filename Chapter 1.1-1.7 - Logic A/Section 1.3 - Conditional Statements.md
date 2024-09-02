@@ -32,7 +32,7 @@ $q$ = "he will pay you."
 | $p$ is true  | $p→q = T$   | $p→q = F$    |
 | $p$ is false | $p→q = T$   | $p→q = T$    |
 
-Here are some English expressions of the [[conditional operation]]
+Here are some English expressions of the [[Conditional Operation]]
 
 | if $p$, then $q$.         | If you mow Mr. Smith's lawn, then he will pay you.           |
 | ------------------------- | ------------------------------------------------------------ |
@@ -88,12 +88,12 @@ $T$
 # Exercises Todo: 
 - [x] Exercise 1.3.1
 - [x] Exercise 1.3.2
-- [ ] Exercise 1.3.3
-- [ ] Exercise 1.3.4
-- [ ] Exercise 1.3.5
-- [ ] Exercise 1.3.6
-- [ ] Exercise 1.3.7
-- [ ] Exercise 1.3.8
-- [ ] Exercise 1.3.9
-- [ ] Exercise 1.3.10
-- [ ] Exercise 1.3.11
+- [x] Exercise 1.3.3
+- [x] Exercise 1.3.4
+- [x] Exercise 1.3.5
+- [x] Exercise 1.3.6
+- [x] Exercise 1.3.7
+- [x] Exercise 1.3.8
+- [x] Exercise 1.3.9
+- [x] Exercise 1.3.10
+- [x] Exercise 1.3.11

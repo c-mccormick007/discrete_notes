@@ -1,0 +1,1 @@
+The **domain** of a variable is the set of all possible values that the variable can take within a given context.

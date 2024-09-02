@@ -65,7 +65,7 @@ Below is a [[Truth Table]] for the [[Conjunction]] operation:
 | ==**T**== | F         | F         |
 | F         | ==**T**== | F         |
 | F         | F         | F         |
-#### Different ways to express a [[conjunction]] in English
+#### Different ways to express a [[Conjunction]] in English
 
 *p*: The sauce looks disgusting.
 *h*: The sauce tastes delicious. 

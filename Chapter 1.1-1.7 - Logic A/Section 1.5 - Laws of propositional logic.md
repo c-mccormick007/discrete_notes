@@ -11,7 +11,7 @@
 [[Commutative laws]]
 [[Complement laws]]
 [[Conditional identities]]
-[[Discrete Computing/Chapter 1 - Logic/Laws of Propositional Logic/De Morgan's laws|De Morgan's laws]] 
+[[Discrete Computing/Chapter 1.1-1.7 - Logic A/Laws of Propositional Logic/De Morgan's laws|De Morgan's laws]] 
 [[Distributive laws]]
 [[Domination laws]]
 [[Double Negation law]]

@@ -43,12 +43,12 @@ Table 1.4.3:
 | F   | T   | T    | F    | F     | T        | T       |
 | F   | F   | T    | T    | F     | T        | T       |
 
-## [[Discrete Computing/Chapter 1 - Logic/Key Terms/De Morgan's Laws]]:
+## [[Discrete Computing/Chapter 1.1-1.7 - Logic A/Key Terms/De Morgan's Laws]]:
 
 The first De Morgan Law is: 
 ## $¬(p∨q) ≡ (¬p∧¬q)$
 
-When the negation operation is distributed inside the parentheses, the [[disjunction]] operation changes to a [[conjunction]] operation.
+When the negation operation is distributed inside the parentheses, the [[Disjunction]] operation changes to a [[Conjunction]] operation.
 
 Consider an English example with the following propositions for $p$ and $q$
 
@@ -56,7 +56,7 @@ Consider an English example with the following propositions for $p$ and $q$
 
 - $q$: The patient has high blood pressure
 
-The use of the English word "or" throughout the example is assumed to be [[disjunction]] (i.e., the inclusive or). [[Discrete Computing/Chapter 1 - Logic/Key Terms/De Morgan's Laws]] says that the following two English statements are [[logically equivalent]]:
+The use of the English word "or" throughout the example is assumed to be [[Disjunction]] (i.e., the inclusive or). [[Discrete Computing/Chapter 1.1-1.7 - Logic A/Key Terms/De Morgan's Laws]] says that the following two English statements are [[Logically Equivalent]]:
 
 The second version swaps the role of [[Disjunction]] and [[Conjunction]]:
 ## $¬(p∧q) ≡ (¬p∨¬q)$

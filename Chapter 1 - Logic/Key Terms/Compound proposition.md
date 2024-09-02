@@ -1,1 +1,0 @@
-A compound [[proposition]] is created by connecting individual propositions with [[logical operation|logical operations]].

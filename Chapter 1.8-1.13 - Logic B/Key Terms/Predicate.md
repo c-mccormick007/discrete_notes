@@ -1,0 +1,1 @@
+A logical statement whose truth value is a function of one or more variables is called a predicate.

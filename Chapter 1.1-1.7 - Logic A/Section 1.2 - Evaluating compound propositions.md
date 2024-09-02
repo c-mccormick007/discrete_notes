@@ -31,7 +31,7 @@ A [[Truth Table]] for a [[Compound proposition]] has a row for every possible co
 
 The amount of rows in a compound function $= 2^n$
 
-The [[truth table]] for a compound proposition **$(p ∨ r) ∧ ¬q$** has $2^3 = 8$ rows. 
+The [[Truth Table]] for a compound proposition **$(p ∨ r) ∧ ¬q$** has $2^3 = 8$ rows. 
 The top row starts with all T's. The rightmost column alternates between T and F. The column to the left of that alternates between 2T and 2F. The column to the left of that alternates between 4T and 4F. Every column to the left will double past that.
 
 | $p$ | $q$ | $r$ | $(p ∨ r) ∧ ¬q$ |

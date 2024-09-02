@@ -9,7 +9,7 @@
 
 ![[Pasted image 20240828222028.png]]
 
-If the [[proposition]] in a step is a hypothesis, the justification is "Hypothesis." Otherwise, the proposition must follow from previous steps by applying one law of logic or rule of inference.
+If the [[Proposition]] in a step is a hypothesis, the justification is "Hypothesis." Otherwise, the proposition must follow from previous steps by applying one law of logic or rule of inference.
 
 In English: 
 ![[Pasted image 20240828222402.png]]

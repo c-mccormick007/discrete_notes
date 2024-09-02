@@ -1,0 +1,1 @@
+A logical proof of an argument is a sequence of steps, each of which consist of a [[Proposition]] and a [[Justification]]. 
