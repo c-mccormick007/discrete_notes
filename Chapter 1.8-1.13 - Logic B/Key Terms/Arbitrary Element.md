@@ -1,0 +1,1 @@
+An element from the domain for which nothing is assumed except that it belongs to the domain.

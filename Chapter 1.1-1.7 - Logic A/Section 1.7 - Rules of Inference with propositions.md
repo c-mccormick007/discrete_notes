@@ -29,8 +29,8 @@ Now to prove the argument is valid using a [[Logical Proof]]
 
 ![[Pasted image 20240828222529.png]]
 # Exercises Todo: 
-- [ ] 1.7.1
-- [ ] 1.7.2
-- [ ] 1.7.3
-- [ ] 1.7.4
-- [ ] 1.7.5
+- [x] 1.7.1
+- [x] 1.7.2
+- [x] 1.7.3
+- [x] 1.7.4
+- [x] 1.7.5

@@ -1,0 +1,1 @@
+A specific case or instance that shows a universally quantified statement is true.

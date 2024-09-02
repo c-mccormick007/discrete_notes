@@ -63,9 +63,9 @@ The second version swaps the role of [[Disjunction]] and [[Conjunction]]:
 
 
 # Exercises Todo: 
-- [ ] 1.4.1
-- [ ] 1.4.2
-- [ ] 1.4.3
-- [ ] 1.4.4
-- [ ] 1.4.5
-- [ ] 1.4.6
+- [x] 1.4.1
+- [x] 1.4.2
+- [x] 1.4.3
+- [x] 1.4.4
+- [x] 1.4.5
+- [x] 1.4.6

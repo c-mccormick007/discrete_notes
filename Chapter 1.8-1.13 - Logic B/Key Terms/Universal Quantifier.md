@@ -1,0 +1,1 @@
+Symbolized by $\forall$, it asserts that a predicate is true for all values in its domain.

@@ -39,7 +39,7 @@ $q$: I will not ride my bike to school.
 The argument's form, given below, was already shown to be valid by using a truth table:
 ![[Pasted image 20240828145835.png]]
 # Exercises Todo: 
-- [ ] 1.6.1
-- [ ] 1.6.2
-- [ ] 1.6.3
-- [ ] 1.6.4
+- [x] 1.6.1
+- [x] 1.6.2
+- [x] 1.6.3
+- [x] 1.6.4

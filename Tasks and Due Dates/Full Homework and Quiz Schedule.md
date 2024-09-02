@@ -1,20 +1,27 @@
 # [[Discrete Computing]]
 ## Week 1: Unit 1 Logic (1.1 - 1.7) 8/26
-- [ ] Assignment 1A (1.1-1.7)
+- [x] Assignment 1A (1.1-1.7)
 	- [x] 1.1
 	- [x] 1.2
 	- [x] 1.3
-	- [ ] 1.4
-	- [ ] 1.5
-	- [ ] 1.6
-	- [ ] 1.7
-- [ ] zyBook PA Unit 1
-- [ ] zyBook CA Unit 1
-- [ ] DB Week 1 Introduction
+	- [x] 1.4
+	- [x] 1.5
+	- [x] 1.6
+	- [x] 1.7
+- [x] zyBook PA Unit 1
+- [x] zyBook CA Unit 1
+- [x] DB Week 1 Introduction
   - **Due Date:** Sunday, 11:59 PM
 
 ## Week 2: Unit 1 Logic (1.8 - 1.13) 9/2
 - [ ] Assignment 1B (1.8-1.13)
+	- [x] 1.8
+	- [ ] 1.9
+	- [ ] 1.10
+	- [ ] 1.11
+	- [ ] 1.12
+	- [ ] 1.13
+	- [ ] 1.14
 - [ ] zyBook PA Unit 1 (cont.)
 - [ ] zyBook CA Unit 1 (cont.)
 - [ ] DB Week 2 E/C

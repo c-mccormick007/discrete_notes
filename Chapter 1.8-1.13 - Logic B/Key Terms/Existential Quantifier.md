@@ -1,0 +1,1 @@
+Symbolized by ∃, it asserts that a predicate is true for at least one value in its domain.

@@ -1,0 +1,1 @@
+An operator that specifies the quantity of specimens in the domain that satisfy a condition (e.g., $\forall$ for "all").
