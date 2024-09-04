@@ -1,0 +1,1 @@
+A variable in a predicate that is not bound by a quantifier and can take on any value in its domain. The truth value of a statement with a free variable cannot be determined unless the variable is assigned a specific value.

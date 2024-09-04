@@ -1,0 +1,1 @@
+A variable that is bound to a quantifier, giving the statement a definite truth value. A statement with only bound variables is a proposition, and its truth value can be determined.

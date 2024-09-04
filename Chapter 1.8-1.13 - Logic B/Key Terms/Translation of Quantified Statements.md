@@ -1,0 +1,1 @@
+The process of converting English statements into quantified logical expressions or vice versa. This involves defining predicates and translating them according to the rules of logic and the context provided by quantifiers such as $\forall$ and $\exists$.

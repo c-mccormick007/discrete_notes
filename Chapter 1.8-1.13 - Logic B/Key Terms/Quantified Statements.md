@@ -1,0 +1,1 @@
+A logical statement that includes a universal or existential quantifier is called a **quantified statement**. These statements involve applying quantifiers such as $\forall$ (universal) and $\exists$ (existential) to predicates, turning them into propositions.
